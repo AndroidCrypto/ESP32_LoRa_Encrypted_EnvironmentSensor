@@ -8,4 +8,4 @@ This is an accompanying repository for the article "Build a LoRa® Encrypted Env
 
 [Esp32_MultiDev_Sx12xx_Bme280_Encrypted_Transmitter_v03](https://github.com/AndroidCrypto/ESP32_LoRa_Encrypted_EnvironmentSensor/tree/main/Esp32_MultiDev_Sx12xx_Bme280_Encrypted_Transmitter_v03) is the transmitter
 
-Esp32_MultiDev_Sx12xx_Bme280_Encrypted_Receiver_v01 is the receiver
+[Esp32_MultiDev_Sx12xx_Bme280_Encrypted_Receiver_v01](https://github.com/AndroidCrypto/ESP32_LoRa_Encrypted_EnvironmentSensor/tree/main/Esp32_MultiDev_Sx12xx_Bme280_Encrypted_Receiver_v01) is the receiver
